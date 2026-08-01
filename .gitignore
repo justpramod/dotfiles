@@ -1,0 +1,10 @@
+# Never track these, even accidentally
+.ssh/
+.gnupg/
+.cache/
+.local/share/
+*.key
+*.pem
+.env
+.netrc
+.dotfiles-backup/
